@@ -1,0 +1,3 @@
+(executable
+ (name reverse_shell)
+ (libraries unix))
